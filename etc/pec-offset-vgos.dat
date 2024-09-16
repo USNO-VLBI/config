@@ -1,8 +1,8 @@
-# created 2024-09-04, epoch 2024-08-04
+# created 2024-09-16, epoch 2024-08-04
 # station  n.points  offset[usec]  stdev[usec]
 Gs   19    0.371   0.005
 Hb   19    2.215   0.007
-Is    5    2.651   0.023
+Is    0   11.812   0.0
 K2   45    0.469   0.008
 Ke    2    1.346   0.003
 Mg   46    0.217   0.006
