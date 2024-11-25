@@ -1,0 +1,57 @@
+# IVS station one-letter codes (HOPS ID) and other identifiers
+# HOPS ID,official two-letter code,official full name,notes
+A,Sa,RAEGSMAR,Azores
+B,Bv,BADRT13V,Badary 13-m
+C,,,Chiang Mai?
+D,,,
+E,Wf,WESTFORD,E - historic
+F,Mf,METSA13M,Finland
+G,Gs,GGAO12M,Greenbelt
+H,K2,KOKEE12M,Hawaii
+I,Is,ISHIOKA,Ishioka
+J,,,
+K,Ke,KATH12M,Katherine
+L,Ns,NYALE13S,Longyearbyen
+M,Mg,MACGO12M,MacDonald
+N,Nn,NYALE13N,Ny-Alesund
+O,Hb,HOBART12,hObart
+P,Yg,YARRA12M,Perth
+Q,,,
+R,Sw,SVERT13V,Russia
+S,Oe,ONSA13NE,OnSala (northeast)
+T,Ow,ONSA13SW,Onsala southwesT
+U,Um,URUMQI13,Urumqi
+V,Ws,WETTZ13S,V - historic
+W,Wn,WETTZ13N,Wettzell
+X,S6,SESHAN13,(X)ina
+Y,Yj,RAEGYEB,Yebes
+Z,Zv,ZELRT13V,Zelenchukskaya
+a,Ag,AGGO,AGGO/Argentina
+b,Ft,FORTLEZA,Brasil
+c,Sh,SESHAN25,China
+d,Bd,BADARY,baDary
+e,Eb,EFLSBERG,Effelsberg
+f,Mh,METSAHOV,Finland
+g,Km,KUNMING,kunminG
+h,Ht,HART15M,Hartebesthoek
+i,Mc,MEDICINA,Italy
+j,Kv,SEJONG,seJong
+k,Kk,KOKEE,Kokee
+l,Va,VLBA,vLba
+m,Ma,MATERA,Matera
+n,Nt,NOTO,Noto
+o,On,ONSALA60,Onsala
+p,Kg,KOGANEI,jaPan
+q,Sy,SYOWA,antarctiQue (French)
+r,Hh,HARTRAO,hartRao
+s,Sv,SVETLOE,Svetloe
+t,Ho,HOBART26,Tasmania
+u,Ur,URUMQI,Urumqi
+v,Wz,WETTZELL,(virtually) historic
+w,Ww,WARK12M,Warkworth
+x,Sm,CRIMEA,x - rarely used
+y,Ys,YEBES40M,Yebes
+z,Zc,ZELENCHK,Zelenchukskaya
+2,26,DSS26,26 - Goldstone
+3,36,DSS36,36 - Tidbinbilla
+5,56,DSS56,56 - Madrid (Robledo)
